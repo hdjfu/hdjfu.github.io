@@ -4,11 +4,11 @@
 <img src="./assets/images/rapha-logo.jpeg" min-width="260px" max-width="260px" width="260px" align="right" style="border-radius: 50%" alt="Foto do Raphael">
 
 <p align="left"> 
-  {text}
+  texto
 </p>
 
 <p align="left">
-  {text}
+  texto
 </p>
 
 <br>
@@ -48,63 +48,3 @@
 </table>
 
 <h2>🎓 Formação</h2>
-
-<table>
-  <tr>
-    <td>
-      <img align="justify" height="94px" width="94px" alt="ETEC Logo" src="./assets/images/etec.png"/>
-    </td>
-    <td>
-      <b>ETEC - Centro Paula Souza</b> <br />
-      <b>Curso Técnico em Desenvolvimento de Sistemas</b> <br />
-      <b>Conclusão:</b> [Ano de Conclusão] <br />
-      Formação técnica com foco em programação, banco de dados, lógica computacional e desenvolvimento de sistemas web e desktop. A base adquirida permitiu o domínio de ferramentas essenciais para o mercado de tecnologia, com forte ênfase em prática e projetos aplicados.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img align="justify" height="94px" width="94px" alt="UNIVESP Logo" src="./assets/images/univesp.png"/>
-    </td>
-    <td>
-      <b>UNIVESP - Universidade Virtual do Estado de São Paulo</b> <br />
-      <b>Engenharia da Computação</b> <br />
-      <b>Status:</b> Cursando <br />
-      Graduação com foco em fundamentos da engenharia, estrutura de dados, algoritmos, arquitetura de computadores, sistemas operacionais e desenvolvimento de software. O curso combina teoria sólida com prática intensiva voltada à resolução de problemas e inovação tecnológica.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-[![Arithmetic Formatter](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=ArithmeticFormatter)](https://github.com/hdjfu/ArithmeticFormatter)
-
-<h2>Contatos </h2>
-<p align="left">
-
-{text}
-
-</p>
-
-<p align="left">
-
-  <a href="https://github.com/jRaphaDev" alt="Github">
-  <img src="https://badgen.net/badge/icon/@hdjfu?icon=github&label" /> </a>
-
-  <a href="https://twitter.com/" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
-
-  <a href="https://www.linkedin.com/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/" /></a>
-
-  <a href="https://mail.google.com/"></a>
-
-
-</p>  
-
-<p align="right">
-
-  <img src="" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
-
-</p>
