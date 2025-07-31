@@ -74,3 +74,14 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+[![Arithmetic Formatter](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=ArithmeticFormatter)](https://github.com/hdjfu/ArithmeticFormatter)
+
+<h2>Contatos </h2>
+<p align="left">
+
+{text}
+
+</p>
