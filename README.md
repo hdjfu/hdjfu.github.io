@@ -18,7 +18,7 @@
 <table>
   
   <tr>
-    <td>
+    <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
       <img align="justify" height="220" width="220" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
     </td>
     <td>
