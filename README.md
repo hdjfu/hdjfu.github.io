@@ -1,7 +1,7 @@
 
 <h1>Lucas Felix</h1>
 
-<img src="./assets/images/rapha-logo.jpeg" min-width="260px" max-width="260px" width="260px" align="right" style="border-radius: 50%" alt="Foto do Raphael">
+<img src="./assets/images/" min-width="260px" max-width="260px" width="260px" align="right" style="border-radius: 50%" alt="">
 
 <p align="left"> 
   texto
@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td>
-      <img align="justify" height="94px" width="94px" alt="ETEC Logo" src="./assets/images/etec.png"/>
+      <img align="justify" height="200px" width="200px" alt="ETEC Logo" src="./assets/images/etec.png"/>
     </td>
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
