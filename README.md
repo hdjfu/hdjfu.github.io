@@ -33,7 +33,7 @@
 
   <tr>
     <td>
-      <img align="justify" height="94px" width="94px" alt="Febraban Logo" src="./assets/images/microsoft.png"/>
+      <img align="justify" height="220px" width="220px" alt="Febraban Logo" src="./assets/images/microsoft.png"/>
     </td>
     <td>
       <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td>
-      <img align="justify" height="200px" width="200px" alt="ETEC Logo" src="./assets/images/etec.png"/>
+      <img align="justify" height="220px" width="220px" alt="ETEC Logo" src="./assets/images/etec.png"/>
     </td>
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
