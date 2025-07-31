@@ -19,7 +19,7 @@
   
   <tr>
     <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220" width="220" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
+      <img align="justify" height="220px" width="220px" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
     </td>
     <td>
       <a href=""> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
@@ -30,7 +30,7 @@
 
   <tr>
     <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220" width="220" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
+      <img align="justify" height="220px" width="220px" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
     </td>
     <td>
       <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220" width="220" alt="ETEC Logo" src="./assets/images/etec.png"/>
+      <img align="justify" height="220px" width="220px" alt="ETEC Logo" src="./assets/images/etec.png"/>
     </td>
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
