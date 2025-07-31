@@ -19,14 +19,11 @@
   
   <tr>
     <td>
-      <img align="justify" height="95px" width="94px" alt="Harvard Logo" src="./assets/images/fcc.jpg"/>
+      <img align="justify" height="220px" width="220px" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
     </td>
     <td>
       <a href=""> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
       <b>Descrição:</b> Curso focado em computação científica utilizando a linguagem Python. Aborda desde fundamentos como estruturas de dados e algoritmos até conceitos mais avançados como Programação Orientada a Objetos e manipulação de dados para cálculos complexos. <br />
-      <b>Colocação:</b> Certificado obtido com a conclusão de todos os desafios e projetos propostos pela plataforma. <br />
-      <b>Desafio:</b> Resolver problemas computacionais com foco em eficiência, clareza e boas práticas de codificação em Python. <br />
-      <b>Solução:</b> Desenvolvimento de soluções em Python utilizando listas, dicionários, funções, classes e bibliotecas padrão para cálculos e manipulação de dados.
     </td>
 
   </tr>
@@ -38,9 +35,6 @@
     <td>
       <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
       <b>Descrição:</b> Formação desenvolvida em parceria com a Microsoft, com foco na aplicação prática da linguagem C# no desenvolvimento de software. O conteúdo abrange desde a criação de aplicações de console até a implementação de lógica condicional, manipulação de dados, organização de código com métodos e técnicas de depuração. <br />
-      <b>Colocação:</b> Certificação conquistada mediante a conclusão de todos os módulos, verificação de conquistas na Microsoft Learn e aprovação em exame final. <br />
-      <b>Desafio:</b> Desenvolver aplicações funcionais utilizando C#, aplicando conceitos essenciais da linguagem aliados a boas práticas de programação e resolução de problemas. <br />
-      <b>Solução:</b> Projetos construídos com foco em clareza, reutilização de código e lógica eficiente, utilizando programação orientada a objetos, estruturas de controle, variáveis e depuração em aplicações de console.
     </td>
 
   </tr>
@@ -58,7 +52,7 @@
       <b>ETEC - Centro Paula Souza</b> <br />
       <b>Curso Técnico em Desenvolvimento de Sistemas</b> <br />
       <b>Conclusão:</b> [Ano de Conclusão] <br />
-      Formação técnica com foco em programação, banco de dados, lógica computacional e desenvolvimento de sistemas web e desktop. A base adquirida permitiu o domínio de ferramentas essenciais para o mercado de tecnologia, com forte ênfase em prática e projetos aplicados.
+      Formação técnica com foco em programação, banco de dados, lógica computacional e desenvolvimento de sistemas web e desktop com forte ênfase em prática e projetos aplicados.
     </td>
   </tr>
 
@@ -70,7 +64,7 @@
       <b>UNIVESP - Universidade Virtual do Estado de São Paulo</b> <br />
       <b>Engenharia da Computação</b> <br />
       <b>Status:</b> Cursando <br />
-      Graduação com foco em fundamentos da engenharia, estrutura de dados, algoritmos, arquitetura de computadores, sistemas operacionais e desenvolvimento de software. O curso combina teoria sólida com prática intensiva voltada à resolução de problemas e inovação tecnológica.
+      Graduação com foco em fundamentos da engenharia, estrutura de dados, algoritmos, arquitetura de computadores, sistemas operacionais e desenvolvimento de software.
     </td>
   </tr>
 </table>
