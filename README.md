@@ -48,3 +48,29 @@
 </table>
 
 <h2>🎓 Formação</h2>
+
+<table>
+  <tr>
+    <td>
+      <img align="justify" height="94px" width="94px" alt="ETEC Logo" src="./assets/images/etec.png"/>
+    </td>
+    <td>
+      <b>ETEC - Centro Paula Souza</b> <br />
+      <b>Curso Técnico em Desenvolvimento de Sistemas</b> <br />
+      <b>Conclusão:</b> [Ano de Conclusão] <br />
+      Formação técnica com foco em programação, banco de dados, lógica computacional e desenvolvimento de sistemas web e desktop. A base adquirida permitiu o domínio de ferramentas essenciais para o mercado de tecnologia, com forte ênfase em prática e projetos aplicados.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img align="justify" height="94px" width="94px" alt="UNIVESP Logo" src="./assets/images/univesp.png"/>
+    </td>
+    <td>
+      <b>UNIVESP - Universidade Virtual do Estado de São Paulo</b> <br />
+      <b>Engenharia da Computação</b> <br />
+      <b>Status:</b> Cursando <br />
+      Graduação com foco em fundamentos da engenharia, estrutura de dados, algoritmos, arquitetura de computadores, sistemas operacionais e desenvolvimento de software. O curso combina teoria sólida com prática intensiva voltada à resolução de problemas e inovação tecnológica.
+    </td>
+  </tr>
+</table>
