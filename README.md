@@ -19,7 +19,7 @@
   
   <tr>
     <td>
-      <img align="justify" height="220px" width="220px" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
+      <img align="justify" height="220" width="220" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
     </td>
     <td>
       <a href=""> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
@@ -30,7 +30,7 @@
 
   <tr>
     <td>
-      <img align="justify" height="220px" width="220px" alt="Febraban Logo" src="./assets/images/microsoft.png"/>
+      <img align="justify" height="220" width="220" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
     </td>
     <td>
       <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <img align="justify" height="220px" width="220px" alt="ETEC Logo" src="./assets/images/etec.png"/>
+      <img align="justify" height="220" width="220" alt="ETEC Logo" src="./assets/images/etec.png"/>
     </td>
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
@@ -58,7 +58,7 @@
 
   <tr>
     <td>
-      <img align="justify" height="94px" width="94px" alt="UNIVESP Logo" src="./assets/images/univesp.png"/>
+      <img align="justify" height="220" width="220" alt="UNIVESP Logo" src="./assets/images/univesp.png"/>
     </td>
     <td>
       <b>UNIVESP - Universidade Virtual do Estado de São Paulo</b> <br />
