@@ -85,3 +85,67 @@
 {text}
 
 </p>
+
+<p align="left">
+
+  <a href="https://github.com/jRaphaDev" alt="Github">
+  <img src="https://badgen.net/badge/icon/@hdjfu?icon=github&label" /> </a>
+
+  <a href="https://twitter.com/" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
+
+  <a href="https://www.linkedin.com/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/" /></a>
+
+  <a href="https://mail.google.com/"></a>
+
+
+</p>  
+
+<p align="right">
+
+  <img src="" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
+
+</p><p align="left">
+
+  <a href="https://github.com/jRaphaDev" alt="Github">
+  <img src="https://badgen.net/badge/icon/@hdjfu?icon=github&label" /> </a>
+
+  <a href="https://twitter.com/" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
+
+  <a href="https://www.linkedin.com/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/" /></a>
+
+  <a href="https://mail.google.com/"></a>
+
+
+</p>  
+
+<p align="right">
+
+  <img src="" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
+
+</p>
+
+<p align="left">
+
+  <a href="https://github.com/jRaphaDev" alt="Github">
+  <img src="https://badgen.net/badge/icon/@hdjfu?icon=github&label" /> </a>
+
+  <a href="https://twitter.com/" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jraphadeveloper" /></a>
+
+  <a href="https://www.linkedin.com/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-freitas-santos/" /></a>
+
+  <a href="https://mail.google.com/"></a>
+
+
+</p>  
+
+<p align="right">
+
+  <img src="" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
+
+</p>
