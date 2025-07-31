@@ -30,7 +30,7 @@
 
   <tr>
     <td>
-      <img align="justify" height="220" width="220" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
+      <img align="justify" height="220" width="220" alt="Microsoft Logo" src="./assets/images/etec.png"/>
     </td>
     <td>
       <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
