@@ -96,10 +96,4 @@
   <a href="https://mail.google.com/"></a>
 
 
-</p>  
-
-<p align="right">
-
-  <img src="" align="right" min-width="100px" max-width="100px" width="100px" alt="Emoji Raphael">
-
 </p>
