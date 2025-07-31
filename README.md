@@ -73,6 +73,9 @@
 
 [![Arithmetic Formatter](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=ArithmeticFormatter)](https://github.com/hdjfu/ArithmeticFormatter)
 
+[![BuscadorCep](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=buscadorCep)](https://github.com/hdjfu/buscadorCep)
+
+
 <h2>Contatos </h2>
 <p align="left">
 
