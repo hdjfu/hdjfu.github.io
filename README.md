@@ -81,9 +81,15 @@ Aqui estão alguns dos projetos desenvolvidos com foco em boas práticas, usabil
 
 [![Fórum](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=forum)](https://github.com/hdjfu/forum)
 
+<h3 style="font-weight: 700; border-bottom: 2px solid; padding-bottom: 4px; margin-bottom: 12px;">
+  🐍 Python
+</h3>
+
 [![Arithmetic Formatter](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=ArithmeticFormatter)](https://github.com/hdjfu/ArithmeticFormatter) &nbsp;
 
 [![Time Calculator](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=time_calculator)](https://github.com/hdjfu/time_calculator)
+
+
 
 
 <h2>Contatos </h2>
