@@ -4,12 +4,9 @@
 <img src="./assets/images/" min-width="260px" max-width="260px" width="260px" align="right" style="border-radius: 50%" alt="">
 
 <p align="left"> 
-  texto
+  Desenvolvedor com 3 anos de experiência, atuando principalmente com Java e SQL no desenvolvimento de aplicações backend e manipulação de dados. Tenho prática em construir APIs RESTful, integrar sistemas, criar consultas otimizadas em bancos relacionais e aplicar boas práticas de programação orientada a objetos. Também já participei de projetos que exigiam manutenção de sistemas legados e refatoração de código para melhor performance e escalabilidade.
 </p>
 
-<p align="left">
-  texto
-</p>
 
 <br>
 
@@ -35,7 +32,7 @@
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
       <b>Curso Técnico em Desenvolvimento de Sistemas</b> <br />
-      <b>Conclusão:</b> [Ano de Conclusão] <br />
+      <b>Conclusão:</b> 2023 <br />
       Formação técnica com foco em programação, banco de dados, lógica computacional e desenvolvimento de sistemas web e desktop com forte ênfase em prática e projetos aplicados.
     </td>
   </tr>
