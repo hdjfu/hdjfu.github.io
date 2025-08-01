@@ -22,7 +22,7 @@
       <img align="justify" height="220px" width="220px" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
     </td>
     <td>
-      <a href=""> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
+      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/scientific-computing-with-python-v7"> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
       <b>Descrição:</b> Curso focado em computação científica utilizando a linguagem Python. Aborda desde fundamentos como estruturas de dados e algoritmos até conceitos mais avançados como Programação Orientada a Objetos e manipulação de dados para cálculos complexos. <br />
     </td>
 
@@ -33,7 +33,7 @@
       <img align="justify" height="220px" width="220px" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
     </td>
     <td>
-      <a href=""> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
+      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/foundational-c-sharp-with-microsoft"> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
       <b>Descrição:</b> Formação desenvolvida em parceria com a Microsoft, com foco na aplicação prática da linguagem C# no desenvolvimento de software. O conteúdo abrange desde a criação de aplicações de console até a implementação de lógica condicional, manipulação de dados, organização de código com métodos e técnicas de depuração. <br />
     </td>
 
@@ -71,9 +71,20 @@
 
 <br>
 
+<h2>💼 Projetos em Destaque</h2>
+
+Aqui estão alguns dos projetos desenvolvidos com foco em boas práticas, usabilidade e organização de código:
+
+
+[![BuscadorCep](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=buscadorCep)](https://github.com/hdjfu/buscadorCep) &nbsp;
+
+[![Site Responsivo](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=site_responsivo)](https://github.com/hdjfu/site_responsivo) &nbsp;
+
+[![Fórum](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=forum)](https://github.com/hdjfu/forum)
+
 [![Arithmetic Formatter](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=ArithmeticFormatter)](https://github.com/hdjfu/ArithmeticFormatter) &nbsp;
 
-[![BuscadorCep](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=buscadorCep)](https://github.com/hdjfu/buscadorCep)
+[![Time Calculator](https://github-readme-stats.vercel.app/api/pin/?username=hdjfu&repo=time_calculator)](https://github.com/hdjfu/time_calculator)
 
 
 <h2>Contatos </h2>
