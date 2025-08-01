@@ -15,38 +15,55 @@
 
 <h2>📜 Certificações</h2>
 
+<<h2>📜 Certificações</h2>
+
 <table>
-  
   <tr>
-    <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220px" width="220px" alt="Free Code Camp Logo" src="./assets/images/fcc.jpg"/>
+    <td style="width: 240px; height: 240px; padding: 0; text-align: center; vertical-align: middle;">
+      <img
+        src="./assets/images/fcc.jpg"
+        alt="Free Code Camp Logo"
+        width="220" height="220"
+        style="object-fit: contain;"
+      />
     </td>
     <td>
-      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/scientific-computing-with-python-v7"> <b>Free Code Camp - Scientific Computing with Python</b> </a> <br />
+      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/scientific-computing-with-python-v7">
+        <b>Free Code Camp - Scientific Computing with Python</b>
+      </a> <br />
       <b>Descrição:</b> Curso focado em computação científica utilizando a linguagem Python. Aborda desde fundamentos como estruturas de dados e algoritmos até conceitos mais avançados como Programação Orientada a Objetos e manipulação de dados para cálculos complexos. <br />
     </td>
-
   </tr>
 
   <tr>
-    <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220px" width="220px" alt="Microsoft Logo" src="./assets/images/microsoft.png"/>
+    <td style="width: 240px; height: 240px; padding: 0; text-align: center; vertical-align: middle;">
+      <img
+        src="./assets/images/microsoft.png"
+        alt="Microsoft Logo"
+        width="220" height="220"
+        style="object-fit: contain;"
+      />
     </td>
     <td>
-      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/foundational-c-sharp-with-microsoft"> <b> Microsoft - Foundational C# with Microsoft Certification</b> </a> <br />
+      <a href="https://www.freecodecamp.org/certification/Lucas-Felix/foundational-c-sharp-with-microsoft">
+        <b>Microsoft - Foundational C# with Microsoft Certification</b>
+      </a> <br />
       <b>Descrição:</b> Formação desenvolvida em parceria com a Microsoft, com foco na aplicação prática da linguagem C# no desenvolvimento de software. O conteúdo abrange desde a criação de aplicações de console até a implementação de lógica condicional, manipulação de dados, organização de código com métodos e técnicas de depuração. <br />
     </td>
-
   </tr>
-
 </table>
 
 <h2>🎓 Formação</h2>
 
 <table>
   <tr>
-    <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220px" width="220px" alt="ETEC Logo" src="./assets/images/etec.png"/>
+    <td style="width: 240px; height: 240px; padding: 0; text-align: center; vertical-align: middle;">
+      <img
+        src="./assets/images/etec.png"
+        alt="ETEC Logo"
+        width="220" height="220"
+        style="object-fit: contain;"
+      />
     </td>
     <td>
       <b>ETEC - Centro Paula Souza</b> <br />
@@ -57,8 +74,13 @@
   </tr>
 
   <tr>
-    <td style="width: 240px; height: 240px; padding: 0; vertical-align: middle; text-align: center;">
-      <img align="justify" height="220px" width="220px" alt="UNIVESP Logo" src="./assets/images/univesp.png"/>
+    <td style="width: 240px; height: 240px; padding: 0; text-align: center; vertical-align: middle;">
+      <img
+        src="./assets/images/univesp.png"
+        alt="UNIVESP Logo"
+        width="220" height="220"
+        style="object-fit: contain;"
+      />
     </td>
     <td>
       <b>UNIVESP - Universidade Virtual do Estado de São Paulo</b> <br />
